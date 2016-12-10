@@ -10,8 +10,8 @@ description: Baldo e Queiroz Advocacia
 
 # Author details for the jekyll-seo-tag gem
 author: 
-  name:Baldo e Queiorz Advogados
-  email: advocacia@baldoequeiroz.com.br
+  name: Baldo e Queiorz Advogados
+  email: "advocacia@baldoequeiroz.com.br"
   twitter: baldoequeiroz # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
