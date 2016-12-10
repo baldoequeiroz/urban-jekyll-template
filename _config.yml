@@ -1,18 +1,18 @@
 title: Urban Template
-url: "https://teal-worm.cloudvent.net"
-baseurl:
+url: "https://baldoequeiroz.github.io"
+baseurl: "/urban-jekyll-template"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: Baldo e Queiroz Advocacia
 
 # Author details for the jekyll-seo-tag gem
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+author: 
+  name:Baldo e Queiorz Advogados
+  email: advocacia@baldoequeiroz.com.br
+  twitter: baldoequeiroz # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
 social:
@@ -22,9 +22,9 @@ social:
 
 collections:
   staff_members:
-    output: false
-  clients:
     output: true
+  clients:
+    output: false
 
 paginate: 10
 paginate_path: "/blog/:num/"
